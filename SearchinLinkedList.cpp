@@ -1,5 +1,4 @@
-// Iterative C++ program to search 
-// an element in linked list 
+
 #include <bits/stdc++.h> 
 using namespace std; 
 
