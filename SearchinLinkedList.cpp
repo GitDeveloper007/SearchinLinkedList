@@ -40,7 +40,7 @@ bool search(Node* head, int x)
 		current = current->next; 
 	} 
 	return false; 
-} ;
+} 
 
 /* Driver program to test count function*/
 int main() 
@@ -59,6 +59,6 @@ int main()
 
 	search(head, 21)? cout<<"Yes" : cout<<"No"; 
 	return 0; 
-} ;
+} 
 
-// This is code is contributed by rathbhupendra 
+
