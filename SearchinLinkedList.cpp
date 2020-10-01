@@ -11,9 +11,7 @@ class Node
 	Node* next; 
 };
 
-/* Given a reference (pointer to pointer) to the head 
-of a list and an int, push a new node on the front 
-of the list. */
+
 void push(Node** head_ref, int new_key) 
 { 
 	/* allocate node */
