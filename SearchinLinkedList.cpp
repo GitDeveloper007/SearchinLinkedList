@@ -9,7 +9,7 @@ class Node
 	public: 
 	int key; 
 	Node* next; 
-}
+};
 
 /* Given a reference (pointer to pointer) to the head 
 of a list and an int, push a new node on the front 
